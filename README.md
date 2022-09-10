@@ -36,6 +36,6 @@ _Diego Maia Santos_
 
 ***
 ## ⚠️ Licença:
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a [licença MIT](https://github.com/DiegoMaiaSantos/tela-login-arvore-portifolio/blob/main/LICENSE).
 
 ***
