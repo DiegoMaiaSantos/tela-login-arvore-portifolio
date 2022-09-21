@@ -2,8 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/DiegoMaiaSantos/tela-login-arvore-portifolio)](https://github.com/DiegoMaiaSantos/tela-login-arvore-portifolio/blob/main/LICENSE)
 
- Projeto realizado com o intuito de criar uma tela de login simples usando apenas HTML e CSS puro, mas que <br>
- trabalhe aspectos de UI e o redimensionamento para qualquer tamanho de tela, conhecido como @Media.  
+ Projeto realizado com o intuito de criar uma tela de login simples usando apenas HTML e CSS puro, mas que trabalhe aspectos de UI e responsividade.  
 
  <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20ANDAMENTO&color=YELLOW&style=for-the-badge"/>
